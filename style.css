@@ -1,0 +1,242 @@
+.landing-page{
+
+  background-color: #4BCBE1;
+}
+.logo-img{
+  width: 50px;
+  height: auto;
+}
+.logo{
+  display: flex;
+  align-items: center;
+  margin-left: 70px;
+
+}
+.main_img{
+  width: 60%;
+}
+.img{
+  width: 50vw;
+}
+.navbar{
+  display: flex;
+
+  align-items: center;
+  background-color: white;
+
+}
+.maincontent{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+a{
+  color: black;
+  text-decoration: none;
+  font-size: 20px;
+  margin: 20px;
+  font-family: century gothic ;
+}
+h1{
+  color: white;
+  font-size: 50px;
+  font-family:  "montserrat"  ;
+
+}
+h3{
+  color: white;
+  font-size: 25px;
+  font-family: montserrat;
+  font-weight: 400;
+}
+.textbox{
+  width: 550px;
+  padding-left: 70px;
+}
+.navbar h1{
+  color: black;
+  font-size: 30px;
+}
+.link{
+  position: absolute;
+  right: 70px;
+}
+body{
+  margin: 0;
+}
+button{
+  font-size: 25px;
+  font-weight: bolder;
+  background-color: #FFC929;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 20px;
+  border-color: #FDA966;
+}
+.flexbox{
+  display: flex;
+  justify-content: space-around;
+
+  margin: 0 120px;
+}
+.study_material{
+
+}
+.subheading{
+  font-size: 30px;
+  font-family: montserrat;
+  font-weight: 500;
+  text-align: center;
+
+}
+.description{
+  font-size: 20px;
+  font-family: Verdana;
+  font-weight: 300;
+  text-align: center;
+  color: grey;
+  text-align: left;
+  line-height: 1.4;
+}
+.flexitem{
+  width: 250px;
+
+}
+.web{
+
+  margin: 0;
+}
+.gatewebsite{
+display:flex;
+justify-content: space-between;
+
+}
+.textinweb{
+  vertical-align: middle;
+}
+.webheading{
+  font-size: 55px;
+  font-family: montserrat;
+
+  color: black;
+  text-align: left;
+  line-height: 1;
+
+}
+
+.altimg{
+  visibility: hidden;
+  display: none;
+}
+.bookbox{
+padding: 0;
+margin: 0}
+.booktext{
+
+  width: 40vw;
+  margin:0;
+}
+.tipsdiv{
+  padding:  70px 70px;
+  display: flex;
+  justify-content: space-between;
+  background-color: #FEFCE7;
+
+}
+.books{
+font-family: montserrat;
+font-weight: 400;
+}
+.btn{
+  background-color: #4CCAE1;
+  border-radius: 5px;
+  display: inline;
+  padding: 10px;
+  margin-top:  15px;
+}
+.Download{
+  font-family: montserrat;
+  font-size: 20px;
+  color: white;
+  font-weight: bold;
+}
+.footer{
+  color: black;
+}
+i{color: white;}
+
+.img1{
+  display: none;
+  width: 100%;
+  margin: 100px 0;
+}
+.img2{
+  display: block;
+}
+
+@media (max-width:1000px) {
+  .logo{
+    margin: 0 auto;
+  }
+  .link{
+    display: none;
+  }
+  .maincontent{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .textbox{
+    width: 90vw;
+  }
+  .img{
+    width: 120%;
+  }
+  .flexbox{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .bookdiv{
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: center;
+  }
+  .flexbox-web{
+    flex-direction: column;
+
+  }
+  .tipsdiv{
+    flex-direction: column;
+  }
+  .tipsimg{
+    align-self: center;
+
+  }
+  .study_material{
+    display: block;
+  }
+  .img1{
+  display: block;
+
+
+  }
+  .gatewebsite{
+    flex-direction: column;
+
+  }
+  .altimg{
+    visibility: visible;
+
+  }
+  .webimgbox{
+    margin-left: auto;
+    margin-right: 0;
+    width: 100%;
+    padding-left: auto;
+  }
+  .img2{
+    display: none;
+  }
+}
