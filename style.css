@@ -269,9 +269,13 @@ font-size: 40px;
   .Download{
     font-size: 35px;
   }
-}.footertext{
+}
+.footertext{
   font-size: 25px;
 }
 ul{
   font-family: nanum gothic;
+}
+.textbox1{
+  padding-left: 70px;
 }
