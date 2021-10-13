@@ -191,6 +191,7 @@ i{color: white;}
   .textbox{
     width: 70vw;
     align-self: center;
+    padding-left: 0;
   }
   .img{
     width: 90%;
