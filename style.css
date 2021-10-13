@@ -209,7 +209,7 @@ i{color: white;}
 
   }
   .tipsdiv{
-    flex-direction: column;
+    flex-direction: column-reverse;
   }
   .tipsimg{
     align-self: center;
