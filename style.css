@@ -190,6 +190,7 @@ i{color: white;}
   }
   .textbox{
     width: 60vw;
+    align-self: baseline;
   }
   .img{
     width: 120%;
@@ -245,5 +246,14 @@ i{color: white;}
   }
   .logotext{
     font-size: 55px;
+  }
+  .head1{
+    font-size: 60px;
+  }
+  .subhead1{
+font-size: 40px;
+  }
+  .btn1{
+    font-size: 40px;
   }
 }
