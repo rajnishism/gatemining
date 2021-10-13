@@ -182,13 +182,14 @@ i{color: white;}
     display: none;
   }
   .maincontent{
+    height: 80vw;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-between;
     align-items: center;
   }
   .textbox{
-    width: 90vw;
+    width: 60vw;
   }
   .img{
     width: 120%;
@@ -238,5 +239,11 @@ i{color: white;}
   }
   .img2{
     display: none;
+  }
+  .logo-img{
+    width: 90px;
+  }
+  .logotext{
+    font-size: 90px;
   }
 }
