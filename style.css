@@ -163,9 +163,14 @@ font-weight: 400;
 }
 .footer{
   color: black;
-
 }
-i{color: white;}
+.logofooter{
+  width: 65px;
+}
+i{
+  color: white;
+  
+}
 
 .img1{
   display: none;
