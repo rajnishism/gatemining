@@ -201,7 +201,7 @@ i{color: white;}
     text-align: center;
   }
   .flexitem{
-    width: 300px;
+    width: 400px;
   }
   .img{
     width: 90%;
@@ -264,7 +264,12 @@ i{color: white;}
   .subhead1{
 font-size: 40px;
   }
-
+.stdimg{
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
   .subheading{
     font-size: 40px;
   }
