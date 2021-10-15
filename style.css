@@ -194,6 +194,9 @@ i{color: white;}
     align-self: center;
     padding-left: 0;
   }
+  .main_img{
+    text-align: center;
+  }
   .img{
     width: 90%;
   }
