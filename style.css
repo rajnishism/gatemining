@@ -37,7 +37,7 @@ a{
   margin: 20px;
   font-family: Nanum Gothic ;
 }
-h1{
+std-head{
   color: white;
   font-size: 50px;
   font-family:  "montserrat"  ;
@@ -195,7 +195,7 @@ i{color: white;}
     padding-left: 0;
   }
   .btn1{
-    font-size: 25px;
+    font-size: 30px;
   }
   .main_img{
     text-align: center;
@@ -272,17 +272,20 @@ i{color: white;}
   .subhead1{
 font-size: 40px;
   }
+  .std-head{
+    font-size: 55px;
+  }
 .stdimg{
-    width: 350px;
+    width: 325px;
     display: block;
     margin-left: auto;
     margin-right: auto;
 }
   .subheading{
-    font-size: 40px;
+    font-size: 45px;
   }
   .description{
-    font-size: 30px;
+    font-size: 35px;
   }
   .books{
     font-size: 35px;
@@ -292,7 +295,7 @@ font-size: 40px;
   }
 }
 .footertext{
-  font-size: 25px;
+  font-size: 30px;
 }
 ul{
   font-family: nanum gothic;
