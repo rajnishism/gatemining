@@ -200,6 +200,9 @@ i{color: white;}
   .main_img{
     text-align: center;
   }
+  .flexitem{
+    width: 300px;
+  }
   .img{
     width: 90%;
   }
