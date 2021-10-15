@@ -293,6 +293,10 @@ font-size: 40px;
   .Download{
     font-size: 35px;
   }
+  .logofooter{
+    width: 75px;
+    height: auto;
+  }
 }
 .footertext{
   font-size: 30px;
