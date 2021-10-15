@@ -194,6 +194,9 @@ i{color: white;}
     align-self: center;
     padding-left: 0;
   }
+  .btn1{
+    font-size: 30px;
+  }
   .main_img{
     text-align: center;
   }
