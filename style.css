@@ -79,8 +79,8 @@ button{
 
   margin: 0 120px;
 }
-.study_material{
-
+.stdimg{
+  width:250px; border-radius:100%; margin-bottom: 30px;
 }
 .subheading{
   font-size: 30px;
@@ -201,7 +201,7 @@ i{color: white;}
     text-align: center;
   }
   .flexitem{
-    width: 400px;
+    width: 500px;
   }
   .img{
     width: 90%;
