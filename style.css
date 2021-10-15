@@ -163,6 +163,7 @@ font-weight: 400;
 }
 .footer{
   color: black;
+
 }
 i{color: white;}
 
@@ -302,9 +303,10 @@ font-size: 40px;
   font-size: 30px;
   font-family: montserrat;
 }
-ul{
-  font-family: nanum gothic;
+li{
+  font-family: 'Quicksand', sans-serif;
 }
+
 .textbox1{
   padding-left: 70px;
 }
