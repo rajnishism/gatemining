@@ -160,6 +160,7 @@ font-weight: 400;
   background-color: #d01717;
   border-radius: 10px;
   padding: 10px 10px;
+  display: inline-block;
 
 }
 .Download{
