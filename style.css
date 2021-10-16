@@ -169,7 +169,7 @@ font-weight: 400;
 }
 i{
   color: white;
-  
+
 }
 
 .img1{
@@ -298,6 +298,7 @@ font-size: 40px;
   }
   .Download{
     font-size: 35px;
+    background-color: red;
   }
   .logofooter{
     width: 65px;
