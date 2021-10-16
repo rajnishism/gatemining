@@ -155,6 +155,13 @@ font-weight: 400;
   padding: 20px;
   margin-top:  15px;
 }
+
+.btn2{
+  background-color: #d01717;
+  border-radius: 10px;
+  padding: 10px 10px;
+
+}
 .Download{
   font-family: montserrat;
   font-size: 20px;
@@ -298,7 +305,7 @@ font-size: 40px;
   }
   .Download{
     font-size: 35px;
-    background-color: red;
+
   }
   .logofooter{
     width: 65px;
