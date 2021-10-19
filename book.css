@@ -1,16 +1,18 @@
-.flexbox{
+img{
+
+  height: 300px;
+  width: auto;
+  }
+  
+  .flexbox{
   display:flex;
   flex-wrap:wrap;
   flex-direction:row;
 
 }
 .img{
-
-  height: 300px;
-  width: auto;
   display: flex;
   justify-content: center;
-
 }
 body{
   margin: 0 70px;
