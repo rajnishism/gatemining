@@ -1,7 +1,7 @@
 img{
   height: 250px;
   width: 220px;
-  transition-property: all;
+  transition-property: width , height;
   transition-duration: 1s;
 
   }
